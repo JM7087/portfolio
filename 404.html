@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 - Página Não Encontrada | João Marcos</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2225%22 fill=%22%236D28D9%22/><text y=%2270%22 x=%2222%22 fill=%22white%22 font-family=%22sans-serif%22 font-size=%2260%22 font-weight=%22bold%22>JM</text></svg>">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;800&family=Plus+Jakarta+Sans:wght@400;600&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+
+  <style>
+    .error-wrapper {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 2rem;
+      text-align: center;
+    }
+    .error-card {
+      max-width: 500px;
+      padding: 3rem 2rem;
+    }
+    .error-code {
+      font-family: var(--font-title);
+      font-size: 6rem;
+      font-weight: 800;
+      line-height: 1;
+      background: linear-gradient(135deg, var(--secondary) 0%, var(--primary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 1.5rem;
+    }
+    .error-title {
+      font-family: var(--font-title);
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+    }
+    .error-desc {
+      color: var(--text-dark);
+      font-size: 1.05rem;
+      margin-bottom: 2rem;
+      line-height: 1.6;
+    }
+    .btn-home {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="error-wrapper">
+    <div class="error-card glass animate-slide-up">
+      <div class="error-code">404</div>
+      
+      <!-- Portuguese Text -->
+      <div class="pt-content">
+        <h1 class="error-title">Página Não Encontrada</h1>
+        <p class="error-desc">O link que você seguiu pode estar quebrado ou a página pode ter sido removida.</p>
+        <a href="index.html" class="btn btn-primary btn-home">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m12 19-7-7 7-7M19 12H5"/>
+          </svg>
+          Voltar para o Início
+        </a>
+      </div>
+
+      <!-- English Text (Hidden by default, can toggle by checking URL search or user preference if desired, but simple bilingual layout is clean) -->
+      <div class="en-content hidden">
+        <h1 class="error-title">Page Not Found</h1>
+        <p class="error-desc">The link you followed may be broken, or the page may have been removed.</p>
+        <a href="index.html" class="btn btn-primary btn-home">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m12 19-7-7 7-7M19 12H5"/>
+          </svg>
+          Back to Home
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Match the language selection from LocalStorage to show the appropriate translation on the 404 page
+    const savedLang = localStorage.getItem("lang") || "pt";
+    if (savedLang === "en") {
+      document.querySelector(".pt-content").classList.add("hidden");
+      document.querySelector(".en-content").classList.remove("hidden");
+      document.title = "404 - Page Not Found | João Marcos";
+    }
+  </script>
+
+</body>
+
+</html>
