@@ -3,7 +3,7 @@ window.PORTFOLIO_DATA = {
     "personal": {
       "name": "João Marcos de Oliveira Santos",
       "display_name": "João Marcos",
-      "title": "Desenvolvedor Full Stack Pleno",
+      "title": "Desenvolvedor Full Stack",
       "tagline": "Construindo APIs escaláveis, integrações robustas e experiências web de alta performance.",
       "about_short": "Sou um desenvolvedor apaixonado por tecnologia, games e animes. Desenvolvo sistemas modernos, focando em Clean Code, acessibilidade e excelente arquitetura de software.",
       "about_long": "Minha jornada começou em 2008, quando coloquei internet em casa. Sem saber o que era programação, minha primeira busca no Google foi por 'Naruto'. Por ter deficiência física, precisei aprender a usar o teclado para controlar o mouse usando os recursos de acessibilidade do Windows, o que abriu portas para minha autonomia. Pouco depois, descobri blogs de tutoriais e comecei a programar meus primeiros scripts HTML/CSS. Mais tarde, criei um canal no YouTube e fiz jogos para Android.\n\nNo ensino médio, conheci um curso rápido de programação no IFG (Instituto Federal de Goiás). Foi ali que me apaixonei de vez. Ingressei na faculdade de Sistemas de Informação no IFG, onde fiz iniciação científica, estágios e completei meu TCC, sendo um dos dois únicos formandos da minha turma. Hoje, atuo desenvolvendo APIs corporativas em Spring Boot e GraphQL, focado em entregar alta qualidade e acessibilidade para todos.",
@@ -196,7 +196,7 @@ window.PORTFOLIO_DATA = {
     "personal": {
       "name": "João Marcos de Oliveira Santos",
       "display_name": "João Marcos",
-      "title": "Pleno Full Stack Developer",
+      "title": "Full Stack Developer",
       "tagline": "Building scalable APIs, robust integrations, and high-performance web experiences.",
       "about_short": "I'm a developer passionate about technology, gaming, and anime. I develop modern systems, focusing on Clean Code, accessibility, and excellent software architecture.",
       "about_long": "My journey began in 2008 when I got internet at home. Without knowing what programming was, my first Google search was for 'Naruto'. Since I have a physical disability, I had to learn how to control the mouse via the keyboard using Windows accessibility features, which unlocked my independence. Shortly after, I discovered tutorial blogs and started coding my first HTML/CSS scripts. Later, I created a YouTube tutorial channel and made games for Android.\n\nIn high school, I learned about a short programming course at IFG (Federal Institute of Goiás). That was when I fell in love with it completely. I went on to study Information Systems at IFG, doing scientific research, internships, and completing my graduation thesis (TCC), being one of only two students to graduate in my class. Today, I work developing enterprise APIs in Spring Boot and GraphQL, focused on delivering high quality and accessibility for everyone.",
