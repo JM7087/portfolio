@@ -91,13 +91,66 @@ window.PORTFOLIO_DATA = {
     ],
     "projects": [
       {
+        "name": "Busca Binária Animada",
+        "desc": "Ferramenta de aprendizado interativa que exibe de forma visual e animada passo a passo o funcionamento do algoritmo de busca binária em um array ordenado.",
+        "tech": ["JavaScript","HTML5","CSS3","Animations"],
+        "github": "https://github.com/JM7087/busca-binaria-animacao",
+        "demo": "http://links.jm7087.com/busca-binaria-animacao/",
+        "tags": ["Frontend","Education"],
+        "image": "assets/images/project-binarysearch.jpg"
+      },
+      {
+        "name": "Pokédex Pokemon",
+        "desc": "Aplicação dinâmica que se conecta à PokeAPI pública para buscar, filtrar e mostrar informações detalhadas e estatísticas dos Pokémon em tempo real.",
+        "tech": ["JavaScript","PokeAPI","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/pokedex-pokemon",
+        "demo": "http://links.jm7087.com/pokedex-pokemon/",
+        "tags": ["Frontend","API Integration"],
+        "image": "assets/images/project-pokedex.jpg"
+      },
+      {
+        "name": "Botão Bazinga",
+        "desc": "Projeto divertido inspirado na série The Big Bang Theory: um botão que reproduz frases e efeitos do personagem Sheldon Cooper ao ser clicado.",
+        "tech": ["JavaScript","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/bazinga-botao-java-script",
+        "demo": "https://links.jm7087.com/bazinga-botao-java-script/",
+        "tags": ["Frontend","Fun"],
+        "image": "assets/images/project-bazinga.jpg"
+      },
+      {
+        "name": "Conversor e Câmbio de Moedas",
+        "desc": "Aplicação web que realiza conversão de moedas em tempo real com gráficos de cotação histórica. Consome API de câmbio para exibir dados atualizados.",
+        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
+        "github": "https://github.com/JM7087/conversor-e-cambio-de-moedas",
+        "demo": "https://links.jm7087.com/conversor-e-cambio-de-moedas/",
+        "tags": ["Frontend","API Integration"],
+        "image": "assets/images/project-conversor.jpg"
+      },
+      {
+        "name": "Busca de Personagens Star Wars",
+        "desc": "App que consome a API SWAPI para buscar e exibir dados detalhados dos personagens do universo Star Wars, com visual temático da saga.",
+        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
+        "github": "https://github.com/JM7087/star-wars-busca-dados-dos-personagens",
+        "demo": "https://links.jm7087.com/star-wars-busca-dados-dos-personagens/",
+        "tags": ["Frontend","API Integration"],
+        "image": "assets/images/project-starwars.jpg"
+      },
+      {
+        "name": "Caixa de Versículos Bíblicos",
+        "desc": "Aplicação web multilíngue que seleciona versículos bíblicos aleatórios para inspiração e permite traduzi-los instantaneamente para diversos idiomas.",
+        "tech": ["JavaScript","HTML5","CSS3","Localization"],
+        "github": "https://github.com/JM7087/caixa-de-versiculos-multilingue",
+        "demo": "https://links.jm7087.com/caixa-de-versiculos-multilingue/",
+        "tags": ["Frontend","Multilingual"],
+        "image": "assets/images/project-versiculos.jpg"
+      },
+            {
         "name": "Encurtador de Links Laravel",
         "desc": "Sistema de alto desempenho para encurtamento e redirecionamento de links desenvolvido com Laravel 11. Utiliza SQLite para banco de dados e Clipboard.js para facilitar a cópia rápida.",
         "tech": ["Laravel 11","PHP","SQLite","Bootstrap","ClipboardJs"],
         "github": "https://github.com/JM7087/encurtador-de-links-laravel",
-        "demo": "https://liink.rf.gd",
         "tags": ["Fullstack","Laravel"],
-        "image": "assets/images/project-encurtador.webp"
+        "image": "assets/images/project-encurtador.jpg"
       },
       {
         "name": "IPTV Player Web",
@@ -115,7 +168,7 @@ window.PORTFOLIO_DATA = {
         "github": "https://github.com/JM7087/Snake-o-Jogo-da-Cobrinha-com-ranking",
         "demo": "https://links.jm7087.com/projetos/SnakeJogoDaCobrinha/index.html",
         "tags": ["Game","Fullstack"],
-        "image": "assets/images/project-snake.webp"
+        "image": "assets/images/project-snake.jpg"
       },
       {
         "name": "Chat Web Local LM Studio",
@@ -124,61 +177,15 @@ window.PORTFOLIO_DATA = {
         "github": "https://github.com/JM7087/chat-web-local-lm-studio",
         "demo": "http://links.jm7087.com/chat-web-local-lm-studio/",
         "tags": ["Frontend","AI"],
-        "image": "assets/images/project-lmstudio.webp"
+        "image": "assets/images/project-lmstudio.jpg"
       },
-      {
-        "name": "Busca Binária Animada",
-        "desc": "Ferramenta de aprendizado interativa que exibe de forma visual e animada passo a passo o funcionamento do algoritmo de busca binária em um array ordenado.",
-        "tech": ["JavaScript","HTML5","CSS3","Animations"],
-        "github": "https://github.com/JM7087/busca-binaria-animacao",
-        "demo": "http://links.jm7087.com/busca-binaria-animacao/",
-        "tags": ["Frontend","Education"],
-        "image": "assets/images/project-binarysearch.webp"
-      },
-      {
-        "name": "Pokédex Pokemon",
-        "desc": "Aplicação dinâmica que se conecta à PokeAPI pública para buscar, filtrar e mostrar informações detalhadas e estatísticas dos Pokémon em tempo real.",
-        "tech": ["JavaScript","PokeAPI","HTML5","CSS3"],
-        "github": "https://github.com/JM7087/pokedex-pokemon",
-        "demo": "http://links.jm7087.com/pokedex-pokemon/",
-        "tags": ["Frontend","API Integration"],
-        "image": "assets/images/project-pokedex.webp"
-      },
-      {
-        "name": "Botão Bazinga",
-        "desc": "Projeto divertido inspirado na série The Big Bang Theory: um botão que reproduz frases e efeitos do personagem Sheldon Cooper ao ser clicado.",
-        "tech": ["JavaScript","HTML5","CSS3"],
-        "github": "https://github.com/JM7087/bazinga-botao-java-script",
-        "demo": "https://links.jm7087.com/bazinga-botao-java-script/",
-        "tags": ["Frontend","Fun"],
-        "image": "assets/images/project-bazinga.webp"
-      },
-      {
-        "name": "Conversor e Câmbio de Moedas",
-        "desc": "Aplicação web que realiza conversão de moedas em tempo real com gráficos de cotação histórica. Consome API de câmbio para exibir dados atualizados.",
-        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
-        "github": "https://github.com/JM7087/conversor-e-cambio-de-moedas",
-        "demo": "https://links.jm7087.com/conversor-e-cambio-de-moedas/",
-        "tags": ["Frontend","API Integration"],
-        "image": "assets/images/project-conversor.webp"
-      },
-      {
-        "name": "Busca de Personagens Star Wars",
-        "desc": "App que consome a API SWAPI para buscar e exibir dados detalhados dos personagens do universo Star Wars, com visual temático da saga.",
-        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
-        "github": "https://github.com/JM7087/star-wars-busca-dados-dos-personagens",
-        "demo": "https://links.jm7087.com/star-wars-busca-dados-dos-personagens/",
-        "tags": ["Frontend","API Integration"],
-        "image": "assets/images/project-starwars.webp"
-      },
-      {
-        "name": "Caixa de Versículos Bíblicos",
-        "desc": "Aplicação web multilíngue que seleciona versículos bíblicos aleatórios para inspiração e permite traduzi-los instantaneamente para diversos idiomas.",
-        "tech": ["JavaScript","HTML5","CSS3","Localization"],
-        "github": "https://github.com/JM7087/caixa-de-versiculos-multilingue",
-        "demo": "https://links.jm7087.com/caixa-de-versiculos-multilingue/",
-        "tags": ["Frontend","Multilingual"],
-        "image": "assets/images/project-versiculos.webp"
+       {
+        "name": "Sistema de Controle de Jogos",
+        "desc": "Este é um sistema simples (CRUD) de Cadastro de jogos desenvolvido em Laravel, PHP, MySQL e Docker.",
+        "tech": ["Laravel 10","PHP","MySQL","Bootstrap","Docker"],
+        "github": "https://github.com/JM7087/cadastro-de-jogos",
+        "tags": ["Fullstack","Laravel"],
+        "image": "assets/images/project-cadastro-de-jogos-laravel.jpg"
       }
     ],
     "education": [
@@ -245,13 +252,66 @@ window.PORTFOLIO_DATA = {
     ],
     "projects": [
       {
+        "name": "Animated Binary Search",
+        "desc": "Interactive learning tool that visually animates step-by-step how the binary search algorithm works on a sorted array.",
+        "tech": ["JavaScript","HTML5","CSS3","Animations"],
+        "github": "https://github.com/JM7087/busca-binaria-animacao",
+        "demo": "http://links.jm7087.com/busca-binaria-animacao/",
+        "tags": ["Frontend","Education"],
+        "image": "assets/images/project-binarysearch.jpg"
+      },
+      {
+        "name": "Pokédex Pokemon",
+        "desc": "Dynamic app connecting to the public PokeAPI to search, filter, and show detailed real-time Pokémon statistics.",
+        "tech": ["JavaScript","PokeAPI","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/pokedex-pokemon",
+        "demo": "http://links.jm7087.com/pokedex-pokemon/",
+        "tags": ["Frontend","API Integration"],
+        "image": "assets/images/project-pokedex.jpg"
+      },
+      {
+        "name": "Bazinga Button",
+        "desc": "A fun project inspired by The Big Bang Theory: a button that plays Sheldon Cooper's iconic phrases and effects on click.",
+        "tech": ["JavaScript","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/bazinga-botao-java-script",
+        "demo": "https://links.jm7087.com/bazinga-botao-java-script/",
+        "tags": ["Frontend","Fun"],
+        "image": "assets/images/project-bazinga.jpg"
+      },
+      {
+        "name": "Currency Converter",
+        "desc": "Web app for real-time currency conversion with historical exchange rate charts. Consumes a live currency API to display up-to-date data.",
+        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
+        "github": "https://github.com/JM7087/conversor-e-cambio-de-moedas",
+        "demo": "https://links.jm7087.com/conversor-e-cambio-de-moedas/",
+        "tags": ["Frontend","API Integration"],
+        "image": "assets/images/project-conversor.jpg"
+      },
+      {
+        "name": "Star Wars Character Search",
+        "desc": "App that consumes the SWAPI to search and display detailed data about Star Wars universe characters, with a thematic visual design.",
+        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
+        "github": "https://github.com/JM7087/star-wars-busca-dados-dos-personagens",
+        "demo": "https://links.jm7087.com/star-wars-busca-dados-dos-personagens/",
+        "tags": ["Frontend","API Integration"],
+        "image": "assets/images/project-starwars.jpg"
+      },
+      {
+        "name": "Scripture Verse Box",
+        "desc": "Multilingual web app that displays random inspiring scripture verses and allows instant translation into multiple languages.",
+        "tech": ["JavaScript","HTML5","CSS3","Localization"],
+        "github": "https://github.com/JM7087/caixa-de-versiculos-multilingue",
+        "demo": "https://links.jm7087.com/caixa-de-versiculos-multilingue/",
+        "tags": ["Frontend","Multilingual"],
+        "image": "assets/images/project-versiculos.jpg"
+      },
+      {
         "name": "Laravel Link Shortener",
         "desc": "High-performance link shortening and redirection system built with Laravel 11. Uses SQLite and Clipboard.js for quick link copying.",
         "tech": ["Laravel 11","PHP","SQLite","Bootstrap","ClipboardJs"],
         "github": "https://github.com/JM7087/encurtador-de-links-laravel",
-        "demo": "https://liink.rf.gd",
         "tags": ["Fullstack","Laravel"],
-        "image": "assets/images/project-encurtador.webp"
+        "image": "assets/images/project-encurtador.jpg"
       },
       {
         "name": "IPTV Player Web",
@@ -269,7 +329,7 @@ window.PORTFOLIO_DATA = {
         "github": "https://github.com/JM7087/Snake-o-Jogo-da-Cobrinha-com-ranking",
         "demo": "https://links.jm7087.com/projetos/SnakeJogoDaCobrinha/index.html",
         "tags": ["Game","Fullstack"],
-        "image": "assets/images/project-snake.webp"
+        "image": "assets/images/project-snake.jpg"
       },
       {
         "name": "Local LM Studio Web Chat",
@@ -278,61 +338,15 @@ window.PORTFOLIO_DATA = {
         "github": "https://github.com/JM7087/chat-web-local-lm-studio",
         "demo": "http://links.jm7087.com/chat-web-local-lm-studio/",
         "tags": ["Frontend","AI"],
-        "image": "assets/images/project-lmstudio.webp"
+        "image": "assets/images/project-lmstudio.jpg"
       },
       {
-        "name": "Animated Binary Search",
-        "desc": "Interactive learning tool that visually animates step-by-step how the binary search algorithm works on a sorted array.",
-        "tech": ["JavaScript","HTML5","CSS3","Animations"],
-        "github": "https://github.com/JM7087/busca-binaria-animacao",
-        "demo": "http://links.jm7087.com/busca-binaria-animacao/",
-        "tags": ["Frontend","Education"],
-        "image": "assets/images/project-binarysearch.webp"
-      },
-      {
-        "name": "Pokédex Pokemon",
-        "desc": "Dynamic app connecting to the public PokeAPI to search, filter, and show detailed real-time Pokémon statistics.",
-        "tech": ["JavaScript","PokeAPI","HTML5","CSS3"],
-        "github": "https://github.com/JM7087/pokedex-pokemon",
-        "demo": "http://links.jm7087.com/pokedex-pokemon/",
-        "tags": ["Frontend","API Integration"],
-        "image": "assets/images/project-pokedex.webp"
-      },
-      {
-        "name": "Bazinga Button",
-        "desc": "A fun project inspired by The Big Bang Theory: a button that plays Sheldon Cooper's iconic phrases and effects on click.",
-        "tech": ["JavaScript","HTML5","CSS3"],
-        "github": "https://github.com/JM7087/bazinga-botao-java-script",
-        "demo": "https://links.jm7087.com/bazinga-botao-java-script/",
-        "tags": ["Frontend","Fun"],
-        "image": "assets/images/project-bazinga.webp"
-      },
-      {
-        "name": "Currency Converter",
-        "desc": "Web app for real-time currency conversion with historical exchange rate charts. Consumes a live currency API to display up-to-date data.",
-        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
-        "github": "https://github.com/JM7087/conversor-e-cambio-de-moedas",
-        "demo": "https://links.jm7087.com/conversor-e-cambio-de-moedas/",
-        "tags": ["Frontend","API Integration"],
-        "image": "assets/images/project-conversor.webp"
-      },
-      {
-        "name": "Star Wars Character Search",
-        "desc": "App that consumes the SWAPI to search and display detailed data about Star Wars universe characters, with a thematic visual design.",
-        "tech": ["JavaScript","HTML5","CSS3","API Integration"],
-        "github": "https://github.com/JM7087/star-wars-busca-dados-dos-personagens",
-        "demo": "https://links.jm7087.com/star-wars-busca-dados-dos-personagens/",
-        "tags": ["Frontend","API Integration"],
-        "image": "assets/images/project-starwars.webp"
-      },
-      {
-        "name": "Scripture Verse Box",
-        "desc": "Multilingual web app that displays random inspiring scripture verses and allows instant translation into multiple languages.",
-        "tech": ["JavaScript","HTML5","CSS3","Localization"],
-        "github": "https://github.com/JM7087/caixa-de-versiculos-multilingue",
-        "demo": "https://links.jm7087.com/caixa-de-versiculos-multilingue/",
-        "tags": ["Frontend","Multilingual"],
-        "image": "assets/images/project-versiculos.webp"
+        "name": "Game Control System",
+        "desc": "This is a simple CRUD system for game management developed with Laravel, PHP, MySQL, and Docker.",
+        "tech": ["Laravel 10","PHP","MySQL","Bootstrap","Docker"],
+        "github": "https://github.com/JM7087/cadastro-de-jogos",
+        "tags": ["Fullstack","Laravel"],
+        "image": "assets/images/project-cadastro-de-jogos-laravel.jpg"
       }
     ],
     "education": [
