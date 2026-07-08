@@ -1,8 +1,4 @@
-/* =============================================================
- * Timeline Inline Data — fallback para file:// protocol
- * Este arquivo espelha timeline-data.json como variável global.
- * O main.js tenta fetch() primeiro; se falhar (file://), usa este.
- * ============================================================= */
+
 window.TIMELINE_DATA = {
   "pt": {
     "summary": "Minha trajetória como desenvolvedor começou no Instituto Federal de Goiás, evoluiu para projetos nacionais na Meta e atualmente segue no Governo de Goiás, desenvolvendo integrações entre sistemas críticos utilizando Java, Spring Boot e GraphQL.",
@@ -21,7 +17,7 @@ window.TIMELINE_DATA = {
           "Evolução de sistemas legados aplicando boas práticas de arquitetura",
           "Versionamento e colaboração técnica com fluxo baseado em Git"
         ],
-        "tech": ["Java","Spring Boot","GraphQL","PostgreSQL","Git","Docker"]
+        "tech": ["Java","Spring Boot","GraphQL","Oracle","Git","Angular"]
       },
       {
         "role": "Desenvolvedor Full Stack",
@@ -40,7 +36,7 @@ window.TIMELINE_DATA = {
           "Desenvolvimento de APIs para integração entre módulos",
           "Integração de fluxos corporativos com Power Automate"
         ],
-        "tech": ["PHP","Laravel","Vue.js","JavaScript","SQL","Power Automate","Git"]
+        "tech": ["PHP","Laravel","Vue.js","JavaScript","SQL","Power Automate","Git","Docker"]
       },
       {
         "role": "Desenvolvedor Web",
@@ -79,7 +75,7 @@ window.TIMELINE_DATA = {
           "Improving legacy systems using sound architecture principles",
           "Version control and team collaboration through Git workflows"
         ],
-        "tech": ["Java","Spring Boot","GraphQL","PostgreSQL","Git","Docker"]
+        "tech": ["Java","Spring Boot","GraphQL","Oracle","Git","Angular"]
       },
       {
         "role": "Full Stack Developer",
@@ -98,7 +94,7 @@ window.TIMELINE_DATA = {
           "API development for module and service integrations",
           "Internal workflow integration with Power Automate"
         ],
-        "tech": ["PHP","Laravel","Vue.js","JavaScript","SQL","Power Automate","Git"]
+        "tech": ["PHP","Laravel","Vue.js","JavaScript","SQL","Power Automate","Git","Docker"]
       },
       {
         "role": "Web Developer",

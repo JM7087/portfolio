@@ -1,8 +1,3 @@
-/* =============================================================
- * Portfolio Inline Data — fallback para file:// protocol
- * Este arquivo espelha portfolio.json como variável global.
- * O main.js tenta fetch() primeiro; se falhar (file://), usa este.
- * ============================================================= */
 window.PORTFOLIO_DATA = {
   "pt": {
     "personal": {
@@ -31,7 +26,7 @@ window.PORTFOLIO_DATA = {
     "skills": {
       "languages":  ["JavaScript","PHP","Java","C#","Python","SQL","HTML5","CSS3"],
       "frameworks": ["Laravel","Spring Boot","Vue.js","Angular","GraphQL","Node.js"],
-      "tools":      ["Docker","Git","Microsoft Azure","Power Automate","MySQL","PostgreSQL","SQLite"],
+      "tools":      ["Docker","Git","Microsoft Azure","Power Automate","MySQL","PostgreSQL","SQLite","Oracle"],
       "other":      ["Unity","Desenvolvimento Android","Photoshop","Vegas Pro"]
     },
     "experience": [
@@ -49,7 +44,7 @@ window.PORTFOLIO_DATA = {
           "Refatoração e melhoria contínua de sistemas existentes",
           "Aplicação de boas práticas de arquitetura e versionamento com Git"
         ],
-        "tech": ["Java","Spring Boot","GraphQL","PostgreSQL","Docker","Git"]
+        "tech": ["Java","Spring Boot","GraphQL","Oracle","Angular","Git"]
       },
       {
         "role": "Desenvolvedor Full Stack",
@@ -68,7 +63,7 @@ window.PORTFOLIO_DATA = {
           "Manutenção evolutiva com foco em qualidade e previsibilidade de entrega",
           "Integração de fluxos internos com Power Automate"
         ],
-        "tech": ["PHP","Laravel","Vue.js","JavaScript","SQL","Power Automate","Git"]
+        "tech": ["PHP","Laravel","Vue.js","JavaScript","SQL","Power Automate","Git","Docker"]
       },
       {
         "role": "Desenvolvedor Web",
@@ -224,7 +219,7 @@ window.PORTFOLIO_DATA = {
     "skills": {
       "languages":  ["JavaScript","PHP","Java","C#","Python","SQL","HTML5","CSS3"],
       "frameworks": ["Laravel","Spring Boot","Vue.js","Angular","GraphQL","Node.js"],
-      "tools":      ["Docker","Git","Microsoft Azure","Power Automate","MySQL","PostgreSQL","SQLite"],
+      "tools":      ["Docker","Git","Microsoft Azure","Power Automate","MySQL","PostgreSQL","SQLite","Oracle"],
       "other":      ["Unity","Android Development","Photoshop","Vegas Pro"]
     },
     "experience": [
@@ -233,7 +228,7 @@ window.PORTFOLIO_DATA = {
         "company": "SGG - Secretaria Geral de Governo de Goiás",
         "period": "2025 - Present",
         "description": "Developing and maintaining robust integration APIs for corporate systems in the Goiás state government. Implementing modern, scalable architectures focused on reliability and high concurrency.",
-        "tech": ["Spring Boot","GraphQL","Java","Docker","PostgreSQL"]
+        "tech": ["Spring Boot","GraphQL","Java","Angular","Oracle","Git"]
       },
       {
         "role": "Full Stack Developer",

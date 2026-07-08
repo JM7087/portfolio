@@ -32,7 +32,9 @@ const TECH_ICON_CLASSES = {
   "mysql": "devicon-mysql-plain",
   "git": "devicon-git-plain",
   "docker": "devicon-docker-plain",
-  "power automate": "devicon-windows8-original"
+  "power automate": "devicon-windows8-original",
+  "angular": "devicon-angularjs-plain",
+  "oracle": "devicon-oracle-original"
 };
 
 const TIMELINE_DATA_URL = "assets/data/timeline-data.json";
@@ -483,9 +485,9 @@ function renderSkills(skills) {
     // Languages
     "javascript": "🟨", "php": "🐘", "java": "☕", "c#": "🔷", "python": "🐍", "sql": "🗄️", "html5": "🌐", "css3": "🎨",
     // Frameworks
-    "laravel": "🟥", "spring boot": "🍃", "vue.js": "🟩", "graphql": "⬢", "node.js": "🟢",
+    "laravel": "🟥", "spring boot": "🍃", "vue.js": "🟩", "graphql": "⬢", "node.js": "🟢", "angular": "🅰️",
     // Tools
-    "docker": "🐳", "git": "🐙", "microsoft azure": "☁️", "power automate": "🤖", "mysql": "🐬", "postgresql": "🐘", "sqlite": "💾",
+    "docker": "🐳", "git": "🐙", "microsoft azure": "☁️", "power automate": "🤖", "mysql": "🐬", "postgresql": "🐘", "sqlite": "💾", "oracle": "🟠",
     // Other
     "unity": "🎮", "desenvolvimento android": "🤖", "android development": "🤖", "photoshop": "🖌️", "vegas pro": "🎬"
   };
