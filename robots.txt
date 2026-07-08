@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://links.jm7087.com/sitemap.xml
+Sitemap: https://portfolio.jm7087.com/sitemap.xml
