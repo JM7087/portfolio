@@ -27,7 +27,7 @@ window.PORTFOLIO_DATA = {
       "languages":  ["JavaScript","PHP","Java","C#","Python","SQL","HTML5","CSS3"],
       "frameworks": ["Laravel","Spring Boot","Vue.js","Angular","GraphQL","Node.js"],
       "tools":      ["Docker","Git","Microsoft Azure","Power Automate","MySQL","PostgreSQL","SQLite","Oracle"],
-      "other":      ["Unity","Desenvolvimento Android","Photoshop","Vegas Pro"]
+      "other":      ["Unity","Desenvolvimento Android","Photoshop","Vegas Pro", "Automatização com IA"]
     },
     "experience": [
       {
@@ -220,7 +220,7 @@ window.PORTFOLIO_DATA = {
       "languages":  ["JavaScript","PHP","Java","C#","Python","SQL","HTML5","CSS3"],
       "frameworks": ["Laravel","Spring Boot","Vue.js","Angular","GraphQL","Node.js"],
       "tools":      ["Docker","Git","Microsoft Azure","Power Automate","MySQL","PostgreSQL","SQLite","Oracle"],
-      "other":      ["Unity","Android Development","Photoshop","Vegas Pro"]
+      "other":      ["Unity","Android Development","Photoshop","Vegas Pro", "AI Automation"]
     },
     "experience": [
       {

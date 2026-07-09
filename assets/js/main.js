@@ -489,7 +489,7 @@ function renderSkills(skills) {
     // Tools
     "docker": "🐳", "git": "🐙", "microsoft azure": "☁️", "power automate": "🤖", "mysql": "🐬", "postgresql": "🐘", "sqlite": "💾", "oracle": "🟠",
     // Other
-    "unity": "🎮", "desenvolvimento android": "🤖", "android development": "🤖", "photoshop": "🖌️", "vegas pro": "🎬"
+    "unity": "🎮", "desenvolvimento android": "🤖", "android development": "🤖", "photoshop": "🖌️", "vegas pro": "🎬", "automatização com ia": "🤖"
   };
 
   const categories = [
