@@ -20,6 +20,7 @@
   --text: #FFFFFF;
   --text-muted: #D1D5DB;
   --text-dark: #9CA3AF;
+  --role-text: #FFFFFF; 
   
   --border: rgba(139, 92, 246, 0.2);
   --border-hover: rgba(139, 92, 246, 0.5);
@@ -45,7 +46,7 @@
   --text: #0F172A;
   --text-muted: #475569;
   --text-dark: #64748B;
-  
+  --role-text: #000000;
   --border: rgba(109, 40, 217, 0.15);
   --border-hover: rgba(109, 40, 217, 0.4);
   --shadow: 0 8px 30px 0 rgba(109, 40, 217, 0.06);
@@ -146,6 +147,7 @@ ul {
   letter-spacing: -0.02em;
   background: linear-gradient(135deg, var(--text) 30%, var(--secondary) 100%);
   -webkit-background-clip: text;
+  background-clip: text;  /* Propriedade padrão para compatibilidade */
   -webkit-text-fill-color: transparent;
   display: inline-block;
   margin-bottom: 0.5rem;
@@ -244,6 +246,7 @@ ul {
 .logo-gradient {
   background: linear-gradient(135deg, #A78BFA 0%, var(--secondary) 50%, var(--primary) 100%);
   -webkit-background-clip: text;
+  background-clip: text;  /* Propriedade padrão para compatibilidade */
   -webkit-text-fill-color: transparent;
   font-weight: 800;
 }
