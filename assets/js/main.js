@@ -487,9 +487,9 @@ function renderSkills(skills) {
     // Frameworks
     "laravel": "🟥", "spring boot": "🍃", "vue.js": "🟩", "graphql": "⬢", "node.js": "🟢", "angular": "🅰️",
     // Tools
-    "docker": "🐳", "git": "🐙", "microsoft azure": "☁️", "power automate": "🤖", "mysql": "🐬", "postgresql": "🐘", "sqlite": "💾", "oracle": "🟠",
+    "docker": "🐳", "git": "🐙", "microsoft azure": "☁️", "power automate": "⚙️", "mysql": "🐬", "postgresql": "🐘", "sqlite": "💾", "oracle": "🟠",
     // Other
-    "unity": "🎮", "desenvolvimento android": "🤖", "android development": "🤖", "photoshop": "🖌️", "vegas pro": "🎬", "automatização com ia": "🤖"
+    "unity": "🎮", "desenvolvimento android": "📱", "android development": "📱", "photoshop": "🖌️", "vegas pro": "🎬", "automatização com ia": "🤖", "ai automation": "🤖"
   };
 
   const categories = [
