@@ -90,7 +90,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Ferramenta de aprendizado interativa que exibe de forma visual e animada passo a passo o funcionamento do algoritmo de busca binária em um array ordenado.",
         "tech": ["JavaScript","HTML5","CSS3","Animations"],
         "github": "https://github.com/JM7087/busca-binaria-animacao",
-        "demo": "http://links.jm7087.com/busca-binaria-animacao/",
+        "demo": "http://links.jmdos.com.br/busca-binaria-animacao/",
         "tags": ["Frontend","Education"],
         "image": "assets/images/project-binarysearch.jpg"
       },
@@ -99,7 +99,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Aplicação dinâmica que se conecta à PokeAPI pública para buscar, filtrar e mostrar informações detalhadas e estatísticas dos Pokémon em tempo real.",
         "tech": ["JavaScript","PokeAPI","HTML5","CSS3"],
         "github": "https://github.com/JM7087/pokedex-pokemon",
-        "demo": "http://links.jm7087.com/pokedex-pokemon/",
+        "demo": "http://links.jmdos.com.br/pokedex-pokemon/",
         "tags": ["Frontend","API Integration"],
         "image": "assets/images/project-pokedex.jpg"
       },
@@ -108,7 +108,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Projeto divertido inspirado na série The Big Bang Theory: um botão que reproduz frases e efeitos do personagem Sheldon Cooper ao ser clicado.",
         "tech": ["JavaScript","HTML5","CSS3"],
         "github": "https://github.com/JM7087/bazinga-botao-java-script",
-        "demo": "https://links.jm7087.com/bazinga-botao-java-script/",
+        "demo": "https://links.jmdos.com.br/bazinga-botao-java-script/",
         "tags": ["Frontend","Fun"],
         "image": "assets/images/project-bazinga.jpg"
       },
@@ -117,7 +117,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Aplicação web que realiza conversão de moedas em tempo real com gráficos de cotação histórica. Consome API de câmbio para exibir dados atualizados.",
         "tech": ["JavaScript","HTML5","CSS3","API Integration"],
         "github": "https://github.com/JM7087/conversor-e-cambio-de-moedas",
-        "demo": "https://links.jm7087.com/conversor-e-cambio-de-moedas/",
+        "demo": "https://links.jmdos.com.br/conversor-e-cambio-de-moedas/",
         "tags": ["Frontend","API Integration"],
         "image": "assets/images/project-conversor.jpg"
       },
@@ -126,7 +126,7 @@ window.PORTFOLIO_DATA = {
         "desc": "App que consome a API SWAPI para buscar e exibir dados detalhados dos personagens do universo Star Wars, com visual temático da saga.",
         "tech": ["JavaScript","HTML5","CSS3","API Integration"],
         "github": "https://github.com/JM7087/star-wars-busca-dados-dos-personagens",
-        "demo": "https://links.jm7087.com/star-wars-busca-dados-dos-personagens/",
+        "demo": "https://links.jmdos.com.br/star-wars-busca-dados-dos-personagens/",
         "tags": ["Frontend","API Integration"],
         "image": "assets/images/project-starwars.jpg"
       },
@@ -135,7 +135,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Aplicação web multilíngue que seleciona versículos bíblicos aleatórios para inspiração e permite traduzi-los instantaneamente para diversos idiomas.",
         "tech": ["JavaScript","HTML5","CSS3","Localization"],
         "github": "https://github.com/JM7087/caixa-de-versiculos-multilingue",
-        "demo": "https://links.jm7087.com/caixa-de-versiculos-multilingue/",
+        "demo": "https://links.jmdos.com.br/caixa-de-versiculos-multilingue/",
         "tags": ["Frontend","Multilingual"],
         "image": "assets/images/project-versiculos.jpg"
       },
@@ -144,6 +144,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Sistema de alto desempenho para encurtamento e redirecionamento de links desenvolvido com Laravel 11. Utiliza SQLite para banco de dados e Clipboard.js para facilitar a cópia rápida.",
         "tech": ["Laravel 11","PHP","SQLite","Bootstrap","ClipboardJs"],
         "github": "https://github.com/JM7087/encurtador-de-links-laravel",
+        "demo": "https://links.jmdos.com.br/encurtador-de-links-laravel/",
         "tags": ["Fullstack","Laravel"],
         "image": "assets/images/project-encurtador.jpg"
       },
@@ -161,7 +162,7 @@ window.PORTFOLIO_DATA = {
         "desc": "O clássico jogo da cobrinha aprimorado com painel de líderes. Armazena pontuações e nick dos jogadores em banco de dados para criar um ranking em tempo real dos 10 melhores.",
         "tech": ["JavaScript","PHP","MySQL","CSS3","HTML5"],
         "github": "https://github.com/JM7087/Snake-o-Jogo-da-Cobrinha-com-ranking",
-        "demo": "https://links.jm7087.com/projetos/SnakeJogoDaCobrinha/index.html",
+        "demo": "https://links.jmdos.com.br/projetos/SnakeJogoDaCobrinha/index.html",
         "tags": ["Game","Fullstack"],
         "image": "assets/images/project-snake.jpg"
       },
@@ -170,7 +171,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Interface web de chat moderna e fluida desenvolvida para se conectar com Modelos de Linguagem (LLMs) executados localmente através da API do LM Studio.",
         "tech": ["JavaScript","HTML5","CSS3","API Integration"],
         "github": "https://github.com/JM7087/chat-web-local-lm-studio",
-        "demo": "http://links.jm7087.com/chat-web-local-lm-studio/",
+        "demo": "https://links.jmdos.com.br/chat-web-local-lm-studio/",
         "tags": ["Frontend","AI"],
         "image": "assets/images/project-lmstudio.jpg"
       },
@@ -251,7 +252,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Interactive learning tool that visually animates step-by-step how the binary search algorithm works on a sorted array.",
         "tech": ["JavaScript","HTML5","CSS3","Animations"],
         "github": "https://github.com/JM7087/busca-binaria-animacao",
-        "demo": "http://links.jm7087.com/busca-binaria-animacao/",
+        "demo": "http://links.jmdos.com.br/busca-binaria-animacao/",
         "tags": ["Frontend","Education"],
         "image": "assets/images/project-binarysearch.jpg"
       },
@@ -260,7 +261,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Dynamic app connecting to the public PokeAPI to search, filter, and show detailed real-time Pokémon statistics.",
         "tech": ["JavaScript","PokeAPI","HTML5","CSS3"],
         "github": "https://github.com/JM7087/pokedex-pokemon",
-        "demo": "http://links.jm7087.com/pokedex-pokemon/",
+        "demo": "http://links.jmdos.com.br/pokedex-pokemon/",
         "tags": ["Frontend","API Integration"],
         "image": "assets/images/project-pokedex.jpg"
       },
@@ -269,7 +270,7 @@ window.PORTFOLIO_DATA = {
         "desc": "A fun project inspired by The Big Bang Theory: a button that plays Sheldon Cooper's iconic phrases and effects on click.",
         "tech": ["JavaScript","HTML5","CSS3"],
         "github": "https://github.com/JM7087/bazinga-botao-java-script",
-        "demo": "https://links.jm7087.com/bazinga-botao-java-script/",
+        "demo": "https://links.jmdos.com.br/bazinga-botao-java-script/",
         "tags": ["Frontend","Fun"],
         "image": "assets/images/project-bazinga.jpg"
       },
@@ -278,7 +279,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Web app for real-time currency conversion with historical exchange rate charts. Consumes a live currency API to display up-to-date data.",
         "tech": ["JavaScript","HTML5","CSS3","API Integration"],
         "github": "https://github.com/JM7087/conversor-e-cambio-de-moedas",
-        "demo": "https://links.jm7087.com/conversor-e-cambio-de-moedas/",
+        "demo": "https://links.jmdos.com.br/conversor-e-cambio-de-moedas/",
         "tags": ["Frontend","API Integration"],
         "image": "assets/images/project-conversor.jpg"
       },
@@ -287,7 +288,7 @@ window.PORTFOLIO_DATA = {
         "desc": "App that consumes the SWAPI to search and display detailed data about Star Wars universe characters, with a thematic visual design.",
         "tech": ["JavaScript","HTML5","CSS3","API Integration"],
         "github": "https://github.com/JM7087/star-wars-busca-dados-dos-personagens",
-        "demo": "https://links.jm7087.com/star-wars-busca-dados-dos-personagens/",
+        "demo": "https://links.jmdos.com.br/star-wars-busca-dados-dos-personagens/",
         "tags": ["Frontend","API Integration"],
         "image": "assets/images/project-starwars.jpg"
       },
@@ -296,7 +297,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Multilingual web app that displays random inspiring scripture verses and allows instant translation into multiple languages.",
         "tech": ["JavaScript","HTML5","CSS3","Localization"],
         "github": "https://github.com/JM7087/caixa-de-versiculos-multilingue",
-        "demo": "https://links.jm7087.com/caixa-de-versiculos-multilingue/",
+        "demo": "https://links.jmdos.com.br/caixa-de-versiculos-multilingue/",
         "tags": ["Frontend","Multilingual"],
         "image": "assets/images/project-versiculos.jpg"
       },
@@ -322,7 +323,7 @@ window.PORTFOLIO_DATA = {
         "desc": "The classic Snake game enhanced with a leaderboard. Saves scores and player nicknames to a database for a real-time top 10 ranking.",
         "tech": ["JavaScript","PHP","MySQL","CSS3","HTML5"],
         "github": "https://github.com/JM7087/Snake-o-Jogo-da-Cobrinha-com-ranking",
-        "demo": "https://links.jm7087.com/projetos/SnakeJogoDaCobrinha/index.html",
+        "demo": "https://links.jmdos.com.br/projetos/SnakeJogoDaCobrinha/index.html",
         "tags": ["Game","Fullstack"],
         "image": "assets/images/project-snake.jpg"
       },
@@ -331,7 +332,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Modern chat interface connecting to local Large Language Models (LLMs) via the LM Studio API.",
         "tech": ["JavaScript","HTML5","CSS3","API Integration"],
         "github": "https://github.com/JM7087/chat-web-local-lm-studio",
-        "demo": "http://links.jm7087.com/chat-web-local-lm-studio/",
+        "demo": "https://links.jmdos.com.br/chat-web-local-lm-studio/",
         "tags": ["Frontend","AI"],
         "image": "assets/images/project-lmstudio.jpg"
       },
