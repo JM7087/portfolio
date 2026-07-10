@@ -144,7 +144,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Sistema de alto desempenho para encurtamento e redirecionamento de links desenvolvido com Laravel 11. Utiliza SQLite para banco de dados e Clipboard.js para facilitar a cópia rápida.",
         "tech": ["Laravel 11","PHP","SQLite","Bootstrap","ClipboardJs"],
         "github": "https://github.com/JM7087/encurtador-de-links-laravel",
-        "demo": "https://links.jmdos.com.br/encurtador-de-links-laravel/",
+        "demo": "https://liink.rf.gd/",
         "tags": ["Fullstack","Laravel"],
         "image": "assets/images/project-encurtador.jpg"
       },
@@ -153,7 +153,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Reprodutor de mídia via navegador moderno e otimizado para listas de canais M3U (IPTV). Oferece uma interface simples, dark theme elegante e baixo consumo de recursos.",
         "tech": ["JavaScript","HTML5","CSS3"],
         "github": "https://github.com/JM7087/iptv-player-web",
-        "demo": "http://tv.jm7087.com/",
+        "demo": "https://tv.jmdos.com.br/",
         "tags": ["Frontend","Media Player"],
         "image": "assets/images/project-iptv.webp"
       },
@@ -306,6 +306,7 @@ window.PORTFOLIO_DATA = {
         "desc": "High-performance link shortening and redirection system built with Laravel 11. Uses SQLite and Clipboard.js for quick link copying.",
         "tech": ["Laravel 11","PHP","SQLite","Bootstrap","ClipboardJs"],
         "github": "https://github.com/JM7087/encurtador-de-links-laravel",
+        "demo": "https://liink.rf.gd/",
         "tags": ["Fullstack","Laravel"],
         "image": "assets/images/project-encurtador.jpg"
       },
@@ -314,7 +315,7 @@ window.PORTFOLIO_DATA = {
         "desc": "Modern browser media player for M3U playlists (IPTV). Simple interface, elegant dark theme, very low resource usage.",
         "tech": ["JavaScript","HTML5","CSS3"],
         "github": "https://github.com/JM7087/iptv-player-web",
-        "demo": "http://tv.jm7087.com/",
+        "demo": "https://tv.jmdos.com.br/",
         "tags": ["Frontend","Media Player"],
         "image": "assets/images/project-iptv.webp"
       },
