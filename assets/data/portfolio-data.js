@@ -139,6 +139,15 @@ window.PORTFOLIO_DATA = {
         "tags": ["Frontend","Multilingual"],
         "image": "assets/images/project-versiculos.jpg"
       },
+      {
+        "name": "Caixa de Ferramentas de Texto",
+        "desc": "Aplicação web estilo canivete suíço para manipulação e processamento de textos, com contadores de caracteres, conversores de caixa, limpadores, geradores e utilitários em tempo real.",
+        "tech": ["JavaScript","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/caixa-ferramentas-texto",
+        "demo": "https://links.jmdos.com.br/caixa-ferramentas-texto/",
+        "tags": ["Frontend","Tools"],
+        "image": "assets/images/project-caixa-ferramentas-texto.jpg"
+      },
             {
         "name": "Encurtador de Links Laravel",
         "desc": "Sistema de alto desempenho para encurtamento e redirecionamento de links desenvolvido com Laravel 11. Utiliza SQLite para banco de dados e Clipboard.js para facilitar a cópia rápida.",
@@ -300,6 +309,15 @@ window.PORTFOLIO_DATA = {
         "demo": "https://links.jmdos.com.br/caixa-de-versiculos-multilingue/",
         "tags": ["Frontend","Multilingual"],
         "image": "assets/images/project-versiculos.jpg"
+      },
+      {
+        "name": "Text Toolbox",
+        "desc": "Swiss army knife web app for text manipulation and processing, featuring character counters, case converters, text cleaners, generators, and real-time utilities.",
+        "tech": ["JavaScript","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/caixa-ferramentas-texto",
+        "demo": "https://links.jmdos.com.br/caixa-ferramentas-texto/",
+        "tags": ["Frontend","Tools"],
+        "image": "assets/images/project-caixa-ferramentas-texto.jpg"
       },
       {
         "name": "Laravel Link Shortener",
