@@ -184,6 +184,15 @@ window.PORTFOLIO_DATA = {
         "tags": ["Frontend","AI"],
         "image": "assets/images/project-lmstudio.jpg"
       },
+      {
+        "name": "Desvio Sobre Rodas",
+        "desc": "Jogo arcade infinito: desvie dos buracos e dos carros sobre uma cadeira de rodas. Sobreviva o máximo que puder, ganhe bônus por quase-colisões e dispute o ranking!.",
+        "tech": ["JavaScript","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/desvio-sobre-rodas",
+        "demo": "https://links.jmdos.com.br/desvio-sobre-rodas/",
+        "tags": ["Game","HTML5","JavaScript","CSS3","API","Frontend"],
+        "image": "assets/images/project-desvio-sobre-rodas.png"
+      },
        {
         "name": "Sistema de Controle de Jogos",
         "desc": "Este é um sistema simples (CRUD) de Cadastro de jogos desenvolvido em Laravel, PHP, MySQL e Docker.",
@@ -354,6 +363,15 @@ window.PORTFOLIO_DATA = {
         "demo": "https://links.jmdos.com.br/chat-web-local-lm-studio/",
         "tags": ["Frontend","AI"],
         "image": "assets/images/project-lmstudio.jpg"
+      },
+      {
+        "name": "Bypass on Wheels",
+        "desc": "Endless arcade game: dodge potholes and cars in a wheelchair. Survive as long as you can, earn bonuses for near-misses, and compete on the leaderboard!",
+        "tech": ["JavaScript","HTML5","CSS3"],
+        "github": "https://github.com/JM7087/desvio-sobre-rodas",
+        "demo": "https://links.jmdos.com.br/desvio-sobre-rodas/",
+        "tags": ["Game","HTML5","JavaScript","CSS3","API","Frontend"],
+        "image": "assets/images/project-desvio-sobre-rodas.png"
       },
       {
         "name": "Game Control System",
