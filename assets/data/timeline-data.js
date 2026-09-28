@@ -1,7 +1,7 @@
 
 window.TIMELINE_DATA = {
   "pt": {
-    "summary": "Minha trajetória como desenvolvedor começou no Instituto Federal de Goiás, evoluiu para projetos nacionais na Meta e atualmente segue no Governo de Goiás, desenvolvendo integrações entre sistemas críticos utilizando Java, Spring Boot e GraphQL.",
+    "summary": "Minha trajetória como desenvolvedor começou no Instituto Federal de Goiás, passou por projetos nacionais na Meta, incluindo atuação em um projeto do Ministério da Justiça, e atualmente segue no Governo de Goiás, desenvolvendo integrações entre sistemas críticos com Java, Spring Boot e GraphQL.",
     "experience": [
       {
         "role": "Especialista em Desenvolvimento de Software Pleno",
@@ -59,7 +59,7 @@ window.TIMELINE_DATA = {
     ]
   },
   "en": {
-    "summary": "My developer journey started at Instituto Federal de Goias, grew through national-level projects at Meta, and currently continues at the Goias state government building integrations between critical systems using Java, Spring Boot, and GraphQL.",
+    "summary": "My developer journey started at Instituto Federal de Goias, continued through national-level projects at Meta, including work on a Ministry of Justice project, and now continues at the Goias state government building integrations between critical systems with Java, Spring Boot, and GraphQL.",
     "experience": [
       {
         "role": "Pleno Software Development Specialist",
